@@ -206,6 +206,11 @@
   color: #61dafb;
 }
 
+.darkTheme{
+  background-color: rgba(0, 0, 0, 0.989);
+  color: white;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
